@@ -415,8 +415,10 @@ img {
 	text-align: center;
 	font-size: 24px;
 	color: #eb3cd4;
-	font-weight: bold;
+	font-weight: 400;
+	font-style: italic;
 }
+
 .schedule p {
 	text-align: center;
 	font-size: 16px;
@@ -598,10 +600,13 @@ a {
 	margin-bottom: 24px;
 }
 
-.twitter {
+.linkedIn {
 	color: #e7bebee8;
 }
 
+.followText{
+	font-size: 22px;
+}
 .music {
 	display: none;
 }
