@@ -597,16 +597,24 @@ a {
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
-	margin-bottom: 24px;
+	margin-bottom: 12px;
+}
+
+.followBox {
+	margin-top: 0px;
 }
 
 .linkedIn {
 	color: #e7bebee8;
+	border: 2px solid #e9bdbd;
+    padding: 1px 3px;
 }
 
 .followText{
+	color: #e7bebee8;
 	font-size: 22px;
 }
+
 .music {
 	display: none;
 }
